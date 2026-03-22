@@ -1,5 +1,3 @@
 # zs-agent-smoke-tester
 
-> ZarishSphere automation agent: smoke-tester
-
-Part of ZarishSphere Platform.
+Generated directly from internal PRD specification.
